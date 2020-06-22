@@ -22,7 +22,7 @@ sudo apt-get install nodejs-legacy
 
 <img src="https://raw.githubusercontent.com/WooSung-Jung/Connect-AWS-Cloud9-Linux/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-06-10%20%EC%98%A4%EC%A0%84%2010.33.44.png">
 
-7. You are need to add our public key to your instance ~/.ssh/authorized_keys file at AWS Console Cloud9 SSH key.
+1. You are need to add our public key to your instance ~/.ssh/authorized_keys file to select AWS Console Cloud9 button of copy key to SSH key.
 
 <img src="https://raw.githubusercontent.com/WooSung-Jung/Connect-AWS-Cloud9-Linux/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202020-06-10%20%EC%98%A4%EC%A0%84%2010.33.55.png">
 
