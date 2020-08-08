@@ -39,4 +39,4 @@ sudo usermod -a -G cloud9 ubuntu
 sudo chown -R ubuntu:cloud9 /<YOUR DIR>
 sudo chmod -R 2775 /<YOUR DIR>
 ```
-12.     If you have any questions, please write an issue.
+12. If you have any questions, please write an issue.
