@@ -30,7 +30,8 @@ sudo apt-get install nodejs-legacy
 8. Select connect button Cloud9 in AWS console.
 9.  Wait 5 minutes while checking the command answering the question.
 10. Use Cloud9 on all  Linux OS. For example is Ubuntu, CentOS etc...
-11.     But Cloud9 user permission will be denied. Insert bash command. ***YOUR DIR*** is your environment setting.
+11. But Cloud9 user permission will be denied. Insert bash command. ***YOUR DIR*** is your environment setting.
+
 ```bash
 sudo adduser ubuntu
 sudo groupadd cloud9
