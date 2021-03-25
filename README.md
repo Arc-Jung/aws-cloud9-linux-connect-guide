@@ -1,6 +1,6 @@
 # Connect at AWS Cloud 9 IDE with all  Linux OS
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWooSung-Jung%2Faws-cloud9-linux-connect-guide&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### ***First Commit 2020-06-21 WooSung-Jung***
+### ***First Commit 2020-06-21 Arc-Jung***
 
 ## Connect and run in remote server (SSH) with all  Linux OS
 1. Connect SSH to instance and Insert bash command.
